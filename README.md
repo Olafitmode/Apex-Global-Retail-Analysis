@@ -60,4 +60,4 @@ Geographic Expansion: Launch marketing campaigns in the South and East regions t
 
 Payment Optimization: Since 50% of users use Credit Cards, explore partnerships with banks for cashback offers to increase the average transaction size.
 
-![Sales Charts](<img width="644" height="553" alt="Apex-Sales using matplotlib for visualization" src="https://github.com/user-attachments/assets/ed80386d-c7bd-4d99-8198-9c5a237f8f53" />)
+![Sales Charts](<img width="644" height="553" alt="Apex-Sales using matplotlib for visualization" src="https://github.com/user-attachments/assets/31fa65c2-57ca-4006-b657-4733480eae6d" />)
