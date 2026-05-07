@@ -1,0 +1,11 @@
+OrderID,Date,CustomerID,Category,Region,Quantity,UnitPrice,PaymentMethod,TotalRevenue
+1001,2026-05-01,C001,Electronics,North,1,450.0,CreditCard,450.0
+1002,2026-05-01,C002,Clothing,West,2,25.5,PayPal,51.0
+1003,2026-05-02,C003,Home & Kitchen,South,1,120.0,CreditCard,120.0
+1004,2026-05-02,C001,Electronics,North,1,25.0,CreditCard,25.0
+1005,2026-05-03,C004,Clothing,East,3,15.0,DebitCard,45.0
+1006,2026-05-04,C005,Electronics,West,1,800.0,PayPal,800.0
+1007,2026-05-05,C002,Clothing,West,1,45.0,PayPal,45.0
+1008,2026-05-05,C006,Home & Kitchen,North,2,60.0,CreditCard,120.0
+1009,2026-05-06,C003,Home & Kitchen,South,1,120.0,CreditCard,120.0
+1010,2026-05-06,C004,Clothing,East,4,20.0,DebitCard,80.0
